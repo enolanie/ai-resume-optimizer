@@ -11,9 +11,31 @@
 
 ---
 
-## Screenshots
+## 产品截图
 
-> Screenshots will be added after the first public demo validation.
+### 1. 首页
+
+![首页](screenshots/01-home.png)
+
+产品入口页，说明核心能力与使用流程。
+
+### 2. 输入页
+
+![输入页](screenshots/02-input.png)
+
+填写目标岗位 JD 与个人简历，支持上传 TXT 文件自动读取。
+
+### 3. 分析结果
+
+![分析结果](screenshots/03-analysis.png)
+
+分析结果页从上到下依次排列：JD 核心要求、匹配情况、部分匹配、主要缺口与优化建议。因内容纵向较长，此截图为整页长图。
+
+### 4. 优化后简历与复制操作
+
+![优化后简历与复制操作](screenshots/04-optimized-resume.png)
+
+优化后简历的部分内容与「一键复制」按钮示意。完整简历需在网页中向下滚动查看。
 
 ---
 
